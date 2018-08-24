@@ -1,0 +1,10 @@
+# web assemble for programs and abi
+*.wast
+*.wasm
+*.abi
+
+# compile script
+ecp
+
+# enviroment config file
+.vscode/
